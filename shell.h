@@ -4,7 +4,7 @@
 /*
  * File: shell.h
  * Auth: SERGEO MOFFO 
- *       PEER 2
+ *       FRANCK
  */
 
 #include <fcntl.h>

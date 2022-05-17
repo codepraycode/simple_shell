@@ -1,7 +1,7 @@
 /*
  * File: str_funcs1.c
- * Auth: Alex Yu
- *       Brennan D Baraban
+ * Auth: SERGEO MOFFO
+ *       FRANCK
  */
 
 #include "shell.h"
